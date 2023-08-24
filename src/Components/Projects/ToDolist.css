@@ -1,0 +1,64 @@
+
+body{
+    background-color:pink;
+}
+
+h1{
+    font-family:Roboto;
+    color:
+}
+
+.container{
+    border:1px solid white;
+    background-color:white;
+    height:15cm;
+    width:11cm;
+    margin:auto;
+    margin-top:2cm;
+    border-radius:5mm;
+}
+
+
+span{
+    font-family:Roboto;
+    font-size:8mm;
+    font-weight:bold;
+    color:white;
+}
+
+.heading{
+    margin-top:5mm;
+    height:1.8cm;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:purple;
+    /* border:2px; */
+}
+
+span{
+    font-size:1cm;
+    font-family:Roboto;
+    font-weight:bold;
+}
+
+.input{
+    width:100%;
+    display:flex;
+    justify-content:space-around;
+    margin:2mm;
+}
+
+
+ul li{
+    list-style:none;
+    font-size:7mm;
+    font-family:Roboto;
+    
+}
+
+.list{
+    margin:auto;
+    /* border:2px solid red; */
+    margin:5mm;
+}
